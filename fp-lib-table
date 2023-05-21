@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Breeze)(type KiCad)(uri ${KIPRJMOD}/Breeze.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,16 @@
+(module TAB_HOLES_NPTH (layer F.Cu) (tedit 5FE2A3F3)
+  (fp_text reference REF** (at 0 -0.3048) (layer F.Fab) hide
+    (effects (font (size 0.1 0.1) (thickness 0.01)))
+  )
+  (fp_text value VAL** (at 0.0254 -0.508) (layer F.Fab) hide
+    (effects (font (size 0.1 0.1) (thickness 0.01)))
+  )
+  (pad "" np_thru_hole circle (at 0.9652 -0.508) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0.9652 0.508) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0.9652 1.524) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0.9652 -1.524) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -0.9652 -1.524) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -0.9652 -0.508) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -0.9652 0.508) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -0.9652 1.524) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+)
