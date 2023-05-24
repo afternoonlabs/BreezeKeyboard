@@ -1,3 +1,5 @@
+<img src="assets/afternoon-logo.png" alt="Afternoon Labs Logo">
+
 # Breeze
 
 > Ergonomics meets Productivity.
@@ -25,6 +27,8 @@ Learn more at: [www.afternoonlabs.com](https://www.afternoonlabs.com)
 Anyone can use this for any purpose. Distributed under the MIT License. See `LICENSE` for more information.
 
 My only request is that if someone uses this design to create new keyboard, I'd like to try it :).
+
+The use of "Afternoon Labs" is protected under copyright law. Unauthorized use without express permission from "Afternoon Labs" , is strictly prohibited.
 
 ## Getting Started
 
