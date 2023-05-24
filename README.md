@@ -24,11 +24,11 @@ Learn more at: [www.afternoonlabs.com](https://www.afternoonlabs.com)
 
 ## License
 
-Anyone can use this for any purpose. Distributed under the MIT License. See `LICENSE` for more information.
+Anyone can use this project for personal use. Distributed under the MIT License. See `LICENSE` for more information.
 
-My only request is that if someone uses this design to create new keyboard, I'd like to try it :).
+Vendors interested in selling the Breeze, please contact us below.
 
-The use of "Afternoon Labs" is protected under copyright law. Unauthorized use without express permission from "Afternoon Labs" , is strictly prohibited.
+The use of "Afternoon Labs" is protected under copyright law. Unauthorized use without express permission from "Afternoon Labs", is prohibited.
 
 ## Getting Started
 
