@@ -52,7 +52,7 @@ git clone https://github.com/afternoonlabs/BreezeKeyboard
 
 ## Support us
 
-[Buy me a beer](https://www.buymeacoffee.com/Afternoonlabs)
+Enjoying the Breeze? [Buy me a beer](https://www.buymeacoffee.com/Afternoonlabs).
 
 ## Contribution
 
@@ -73,5 +73,7 @@ Vendors interested in selling the Breeze, please contact us below.
 The use of "Afternoon Labs" is protected under copyright law. Unauthorized use without express permission from "Afternoon Labs", is prohibited.
 
 ## Contact
+
+Join our [Discord Server](https://discord.gg/9nsApe3GvG).
 
 Afternoon Labs - [hi@afternoonlabs.com](mailto:hi@afternoonlabs.com)
