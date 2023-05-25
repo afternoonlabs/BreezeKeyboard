@@ -22,14 +22,6 @@ Learn more at: [www.afternoonlabs.com](https://www.afternoonlabs.com)
 * QMK, Pro Micro, VIA Compatible
 * Bonus 6 Key or 9 Key Macro Pad Included (The **Gust** Macro Pad)
 
-## License
-
-Anyone can use this project for personal use. Distributed under the MIT License. See `LICENSE` for more information.
-
-Vendors interested in selling the Breeze, please contact us below.
-
-The use of "Afternoon Labs" is protected under copyright law. Unauthorized use without express permission from "Afternoon Labs", is prohibited.
-
 ## Getting Started
 
 These instructions will guide you on how to replicate this keyboard design on your local machine for development, testing, or personal use.
@@ -58,6 +50,10 @@ git clone https://github.com/afternoonlabs/BreezeKeyboard
 
 3. Now, you can view, edit, and export the schematic and PCB layout for manufacturing.
 
+## Support us
+
+[Buy me a beer](https://www.buymeacoffee.com/Afternoonlabs)
+
 ## Contribution
 
 Contributions are encouraged! Whether it's bug fixes, new features, or even simple feedback, everything helps in making the project better.
@@ -67,6 +63,14 @@ Contributions are encouraged! Whether it's bug fixes, new features, or even simp
 3. Commit your Changes (`git commit -m 'Adding SomeFeature'`)
 4. Push to the Branch (`git push origin feature/SomeFeature`)
 5. Open a Pull Request
+
+## License
+
+Anyone can use this project for personal use. Distributed under the MIT License. See `LICENSE` for more information.
+
+Vendors interested in selling the Breeze, please contact us below.
+
+The use of "Afternoon Labs" is protected under copyright law. Unauthorized use without express permission from "Afternoon Labs", is prohibited.
 
 ## Contact
 
