@@ -1,5 +1,3 @@
 (sym_lib_table
-  (lib (name Merkaba_Rev0-rescue)(type Legacy)(uri ${KIPRJMOD}/Merkaba_Rev0-rescue.lib)(options "")(descr ""))
-  (lib (name Breeze-rescue)(type Legacy)(uri ${KIPRJMOD}/Breeze-rescue.lib)(options "")(descr ""))
-  (lib (name Breeze-rescue)(type Legacy)(uri ${KIPRJMOD}/Breeze-rescue.lib)(options "")(descr ""))
+  (version 7)
 )
