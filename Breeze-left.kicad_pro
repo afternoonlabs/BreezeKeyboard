@@ -413,7 +413,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Breeze-right.kicad_pro",
+    "filename": "Breeze-left.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -475,7 +475,7 @@
       "idf": "",
       "netlist": "Merkaba_Rev0.net",
       "specctra_dsn": "",
-      "step": "Breeze-right.step",
+      "step": "Breeze-left.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
